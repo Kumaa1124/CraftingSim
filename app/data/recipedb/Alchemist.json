@@ -10031,4 +10031,36 @@
     },
     "stars": 2
   }
+    {
+    "baseLevel": 70,
+    "difficulty": 2365,
+    "durability": 35,
+    "level": 350,
+    "maxQuality": 20335,
+    "name": {
+      "cn": "Snailfish Oil",
+      "de": "Scheibenbauchöl",
+      "en": "TEST 35",
+      "fr": "Huile de poisson-limace",
+      "ja": "ビクニンオイル",
+      "ko": "Snailfish Oil"
+    },
+    "stars": 3
+  }
+    {
+    "baseLevel": 70,
+    "difficulty": 3548,
+    "durability": 70,
+    "level": 350,
+    "maxQuality": 25881,
+    "name": {
+      "cn": "Snailfish Oil",
+      "de": "Scheibenbauchöl",
+      "en": "Snailfish Oil",
+      "fr": "Huile de poisson-limace",
+      "ja": "ビクニンオイル",
+      "ko": "Snailfish Oil"
+    },
+    "stars": 3
+  }
 ]
