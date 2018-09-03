@@ -15028,18 +15028,18 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 1771,
+    "difficulty": 4344,
     "durability": 70,
-    "level": 320,
-    "maxQuality": 15837,
+    "level": 390,
+    "maxQuality": 32167,
     "name": {
       "cn": "Wind-up Shinryu",
       "de": "Mini-Shinryu",
-      "en": "Wind-up Shinryu",
+      "en": "4****",
       "fr": "Mini-Shinryu",
       "ja": "マメット・神龍",
       "ko": "Wind-up Shinryu"
     },
-    "stars": 2
+    "stars": 4
   }
 ]
